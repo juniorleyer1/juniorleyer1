@@ -66,12 +66,6 @@ Análisis de datos sobre una base de datos relacional, utilizando SQL y PostgreS
 
 ![Lenguajes más utilizados](https://github-readme-stats.shion.dev/api/top-langs/?username=juniorleyer1\&theme=nightowl\&hide_border=true\&include_all_commits=false\&count_private=true\&layout=compact)
 
-### Actividad
-
-[![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=juniorleyer1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 ---
 
 ## 🎓 Formación
