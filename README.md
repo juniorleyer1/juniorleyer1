@@ -1,12 +1,10 @@
 # 👋 Hola, soy Angel
+[LinkedIn](https://www.linkedin.com/in/angeljunior-job/) · [Email](mailto:juniorleyer1@gmail.com)
 
 ### 📊 Analista de Datos Junior | Python · SQL · Power BI | Ingeniero Electrónico
 
 Ingeniero Electrónico orientado al **análisis de datos**, con un enfoque estructurado para explorar información, construir métricas y encontrar patrones que permitan comprender problemas y generar recomendaciones basadas en datos.
 
-## 📫 Contacto
-
-[LinkedIn](https://www.linkedin.com/in/angeljunior-job/) · [Email](mailto:juniorleyer1@gmail.com)
 ---
 
 ## 🛠️ Tecnologías
