@@ -73,5 +73,3 @@ Análisis de datos sobre una base de datos relacional, utilizando SQL y PostgreS
 **Ingeniería Electrónica**
 Universidad Popular del Cesar
 
-
-# juniorleyer1
