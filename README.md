@@ -1,4 +1,5 @@
 # 👋 Hola, soy Angel
+
 [LinkedIn](https://www.linkedin.com/in/angeljunior-job/) · [Email](mailto:juniorleyer1@gmail.com)
 
 ### 📊 Analista de Datos Junior | Python · SQL · Power BI | Ingeniero Electrónico
