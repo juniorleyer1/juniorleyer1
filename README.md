@@ -5,6 +5,7 @@
 ### 📊 Analista de Datos | Python · SQL · Power BI | Ingeniero Electrónico
 
 Ingeniero Electrónico orientado al **análisis de datos**, con un enfoque estructurado para explorar información, construir métricas y encontrar patrones que permitan comprender problemas y generar recomendaciones basadas en datos.
+
 ---
 
 ## 🎓 Formación
