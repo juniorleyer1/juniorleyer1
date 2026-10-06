@@ -68,7 +68,7 @@ Análisis de datos sobre una base de datos relacional, utilizando SQL y PostgreS
 
 ### Actividad
 
-[![Gráfica de Actividad de juniorleyer1](https://github-readme-activity-graph.vercel.app/graph?username=juniorleyer1&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=juniorleyer1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
