@@ -2,11 +2,15 @@
 
 [LinkedIn](https://www.linkedin.com/in/angeljunior-job/) · [Email](mailto:juniorleyer1@gmail.com)
 
-### 📊 Analista de Datos Junior | Python · SQL · Power BI | Ingeniero Electrónico
+### 📊 Analista de Datos | Python · SQL · Power BI | Ingeniero Electrónico
 
 Ingeniero Electrónico orientado al **análisis de datos**, con un enfoque estructurado para explorar información, construir métricas y encontrar patrones que permitan comprender problemas y generar recomendaciones basadas en datos.
-
 ---
+
+## 🎓 Formación
+
+**Ingeniería Electrónica** · Universidad Popular del Cesar
+
 
 ## 🛠️ Tecnologías
 
@@ -59,16 +63,9 @@ Análisis de datos sobre una base de datos relacional, utilizando SQL y PostgreS
 
 ---
 
-## 📈 GitHub
-
-### Lenguajes más utilizados
+## Lenguajes más utilizados
 
 ![Lenguajes más utilizados](https://github-readme-stats.shion.dev/api/top-langs/?username=juniorleyer1\&theme=nightowl\&hide_border=true\&include_all_commits=false\&count_private=true\&layout=compact)
 
----
 
-## 🎓 Formación
-
-**Ingeniería Electrónica**
-Universidad Popular del Cesar
 
