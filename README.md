@@ -4,9 +4,11 @@
 
 Ingeniero Electrónico orientado al **análisis de datos**, con un enfoque estructurado para explorar información, construir métricas y encontrar patrones que permitan comprender problemas y generar recomendaciones basadas en datos.
 
-## 🎓 Formación
+## 📌 Proyectos destacados
 
-**Ingeniería Electrónica:** · Universidad Popular del Cesar
+A continuación se presenta una selección de mis proyectos de análisis de datos, desarrollados con el objetivo de aplicar conocimientos técnicos en la exploración, transformación, análisis y visualización de datos para obtener información relevante y apoyar la toma de decisiones.
+
+[Ver proyectos destacados →](https://github.com/juniorleyer1/portafolio)
 
 ## 🛠️ Tecnologías
 
@@ -25,11 +27,9 @@ Ingeniero Electrónico orientado al **análisis de datos**, con un enfoque estru
 **Otros conocimientos:**
 `C/C++` · `Flutter/Dart` · `Microcontroladores (ESP32/Arduino)` · `IoT`
 
-## Proyectos destacados
+## 🎓 Formación
 
-A continuación se presenta una selección de mis proyectos de análisis de datos, desarrollados con el objetivo de aplicar conocimientos técnicos en la exploración, transformación, análisis y visualización de datos para obtener información relevante y apoyar la toma de decisiones.
-
-[Ver proyectos destacados →](https://github.com/juniorleyer1/portafolio)
+**Ingeniería Electrónica:** · Universidad Popular del Cesar
 
 ## Lenguajes más utilizados
 
