@@ -1,4 +1,4 @@
-# 👋 Hola, soy Angel
+# 👋 Hola, soy Ángel
 
 ## 📊 Analista de Datos | Python · SQL · Power BI | Ingeniero Electrónico
 
